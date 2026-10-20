@@ -7,8 +7,7 @@ An ultrasonic distance-detection circuit built using a **555 timer IC and basic 
 **Watch the videos of the hardware operating:**  
 [Google Drive — Project Demonstration Videos](https://drive.google.com/drive/folders/1KOYe0zrhstfCAj66NMBn6aspRyHiy-8i?usp=drive_link)
 
-<img width="1290" height="2796" alt="IMG-20260102-WA0013" src="https://github.com/user-attachments/assets/751bebfc-1a90-4271-99b5-007c8fb5fd44" />
-
+<img width="398" height="384" alt="image" src="https://github.com/user-attachments/assets/0601832f-0d6e-4f3f-92c1-3a9c6e37a082" />
 
 <img width="598" height="645" alt="image" src="https://github.com/user-attachments/assets/e74328e8-7f4a-409e-a7c1-4bdd0fe36846" />
 `
